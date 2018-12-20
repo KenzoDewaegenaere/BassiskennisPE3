@@ -1,2 +1,2 @@
-# This repo contains a very simple bash script that allows you to create a folder.
-> Read the assignment for further instructions
+# deze sh file zal een map creëren in de map waar de sh zit.
+## header 2 test 
