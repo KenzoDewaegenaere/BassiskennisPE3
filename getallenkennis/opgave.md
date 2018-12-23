@@ -52,4 +52,16 @@ p4 geen fout (even)
 
 
 
-volgende opgave 
+##volgende opgave 
+
+
+###(845)10 ----- ()zd
+
+
+##geen idee hoe ik dit moet uitwerken
+
+
+
+
+
+
