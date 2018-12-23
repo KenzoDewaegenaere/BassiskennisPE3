@@ -47,3 +47,9 @@ p4 geen fout (even)
 
 
 #### volgens mij is deze oplossing fout. 
+
+
+
+
+
+volgende opgave 
